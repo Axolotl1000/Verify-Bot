@@ -2,7 +2,7 @@
   "dependencies": {
     "mineflayer": "^4.5.1"
   },
-  "name": "minecraft-bot",
+  "name": "verify-bot",
   "version": "1.0.0",
   "main": "main.js",
   "devDependencies": {},
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Axolotl1000",
+  "license": "MIT",
+  "description": "讓局域網的玩家有一個很棒的白名單系統"
 }
