@@ -1,0 +1,15 @@
+{
+    "BOT_NAME": "Verify_Bot",
+    "SERVER": {
+        "OWNER": "creeper1230",
+        "IP": "localhost",
+        "PORT": 58888
+    },
+    "IN_GAME": {
+        "SEND_ON_CONNECT": true,
+        "SEND_ON_KICK_ANOTHER_PLAYER": true
+    },
+    "CONSOLE": {
+        "SEND_ON_KICK_ANOTHER_PLAYER": true
+    }
+}

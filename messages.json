@@ -1,0 +1,13 @@
+{
+    "LOGIN": {
+        "CONSOLE": {
+            "CONNECTING": "正在嘗試連線至 %IP%:%PORT%",
+            "CONNECTED": "已連線"
+        },
+        "IN_GAME": "/tellraw @a {\"text\":\">> Bot Online <<\", \"color\":\"gold\"}"
+    },
+    "WHITELIST": {
+        "KICK_REASON": "系統未把你列入白名單",
+        "IN_GAME": "%NAME% 沒有在白名單內，因此將其踢出"
+    }
+}
