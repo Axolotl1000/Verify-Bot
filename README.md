@@ -12,7 +12,7 @@
 
 ## 安裝
 
-这个項目使用 [node](http://nodejs.org)以及[MineFlayer](https://mineflayer.prismarine.js.org/)，請確保你有安裝它。
+這個項目使用 [node](http://nodejs.org)以及[MineFlayer](https://mineflayer.prismarine.js.org/)，請確保你有安裝它。
 
 在該資料夾中輸入以下指令即安裝成功
 
